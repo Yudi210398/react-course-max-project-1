@@ -1,0 +1,16 @@
+.main-content {
+  margin: auto;
+  width: 50%;
+  background-color: rgb(240, 232, 221);
+  padding: 20px;
+  border-radius: 20px;
+}
+
+td,
+.pengeluaran-color {
+  color: red;
+}
+
+.year {
+  margin-top: 10px;
+}
